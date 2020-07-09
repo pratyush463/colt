@@ -1,0 +1,39 @@
+p{
+	font-family: arial;
+}
+h1{
+	font-family: arial;
+}
+
+h1{
+	font-size: 100px; 
+}
+span{
+	font-size: 2.0em;
+}
+p{
+	font-size: 16px;
+}
+p{
+	font-weight: bolder;
+}
+p{
+	line-height: 1.5;
+}
+h1{
+	text-align: center;
+} 
+h1{
+	text-decoration: underline;
+}
+body{
+	background-color: pink;
+	border: 10px red solid;
+}
+body
+{
+	background-image: url("https://img.freepik.com/free-vector/abstract-colorful-flow-shapes-background_23-2148258092.jpg?size=626&ext=jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}

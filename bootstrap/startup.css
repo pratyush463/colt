@@ -1,0 +1,38 @@
+#content {
+  text-align: center;
+  padding-top: 25%;
+  text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+
+
+
+
+}
+
+body {
+  background-image: url('https://images.wallpaperscraft.com/image/love_hands_romance_tattoos_couple_anchor_116522_3840x2160.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  font-family: font-family: 'Lato', sans-serif;
+}
+
+h1,
+h3 {
+  color: white;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 5em;
+}
+
+html {
+  height: 100%;
+}
+
+hr {
+  width: 400px;
+  border-top: 1px solid #f8f8f8;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+
+}

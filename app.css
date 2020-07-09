@@ -1,0 +1,19 @@
+h1 {
+  color: green;
+  border-color: rgba(18 78 8 0.7);
+  border-width: 2px;
+  border-style: solid;
+}
+body {
+  /*background: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+  background-color: pink;
+}
+h4 {
+  color: blue;
+}
+
+h4 {
+  background: pink;
+}

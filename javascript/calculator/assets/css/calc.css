@@ -1,0 +1,30 @@
+.main {
+    width: 40vw;
+}
+
+.row {
+    min-height: 50vh;
+}
+
+.display {
+    font-size: 40px;
+    min-height: 12vh !important;
+}
+
+body {
+    background: rgb(131, 58, 180);
+    background: linear-gradient( 90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+}
+
+.operator {
+    cursor: pointer;
+}
+
+.btn {
+    border-radius: 0;
+    border-color: white;
+}
+
+.btn-light {
+    background-color: lightgrey;
+}
